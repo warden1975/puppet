@@ -24,7 +24,7 @@ Inspired by [devops-puppet](https://github.com/pyrocms/devops-puppet)
   * git://github.com/puppetlabs/puppet-postgresql.git
 * SQLite
   * git://github.com/puppetlabs/puppetlabs-sqlite.git
-* [PEAR](https://github.com/treehouseagency/puppet-pear)
+* [PEAR](https://github.com/rafaelfelix/puppet-pear)
 * Vim
 * [Ruby](https://github.com/puppetlabs/puppetlabs-ruby)
 * [NodeJS](https://github.com/puppetlabs/puppetlabs-nodejs)
